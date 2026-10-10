@@ -1,0 +1,10 @@
+{
+  "dataset_path": "data/raw/Telco-Customer-Churn.csv",
+  "model_path": "models/churn_model.joblib",
+  "metrics_path": "artifacts/metrics.json",
+  "random_state": 42,
+  "test_size": 0.2,
+  "classification_threshold": 0.5,
+  "model_type": "logistic_regression",
+  "max_iter": 1000
+}

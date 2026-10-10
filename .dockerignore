@@ -1,0 +1,17 @@
+
+.git
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints
+notebooks
+data
+wheelhouse
+models/*
+!models/churn_model.joblib
+!wheelhouse/
+!wheelhouse/*
