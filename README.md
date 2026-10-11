@@ -93,6 +93,7 @@ The focus is not only on predictive performance, but also on the engineering wor
 
 
 
+```\n
 ## Technology Stack
 
 Python, Pandas, scikit-learn, FastAPI, Docker, Kubernetes, Pytest, Ruff, and GitHub Actions.
